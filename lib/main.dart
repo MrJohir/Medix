@@ -23,5 +23,5 @@ Future<void> main() async {
 
   await FirebaseMessaging.instance.requestPermission();
 
-  runApp(DermaInstitute());
+  runApp(Medix());
 }

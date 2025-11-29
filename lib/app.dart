@@ -9,8 +9,8 @@ import 'package:get_storage/get_storage.dart';
 import 'core/bindings/controller_binder.dart';
 import 'core/utils/theme/theme.dart';
 
-class DermaInstitute extends StatelessWidget {
-  DermaInstitute({super.key});
+class Medix extends StatelessWidget {
+  Medix({super.key});
 
   /////logincontroller you can find from anywhere
   final LoginController loginController = Get.put(LoginController());
