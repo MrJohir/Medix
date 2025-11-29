@@ -1,4 +1,4 @@
-# Derma Institute - Medical Management System
+# Medix - Medical Management System
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ## 🎯 Overview
 
-**Derma Institute** is a sophisticated medical management system built with Flutter, designed to streamline healthcare workflows for both trainees and administrators. The application provides comprehensive tools for managing Standard Operating Procedures (SOPs), creating medical reports, performing medical calculations, handling emergency protocols, and utilizing AI-powered triage assistance.
+**Medix** is a sophisticated medical management system built with Flutter, designed to streamline healthcare workflows for both trainees and administrators. The application provides comprehensive tools for managing Standard Operating Procedures (SOPs), creating medical reports, performing medical calculations, handling emergency protocols, and utilizing AI-powered triage assistance.
 
 ### Application Purpose
 
@@ -412,7 +412,7 @@ lib/
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd dermainstitute-main
+cd medix-main
 ```
 
 2. **Install dependencies**
